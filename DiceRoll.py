@@ -6,6 +6,7 @@ def diceroll():
 
 def startGame():
     print("Welcome to Dice Game! Its your roll against their roll")
+    print("This program is now live on gitHub!")
     ourRoll = diceroll()
     theirRoll = diceroll()
 
